@@ -1,0 +1,14 @@
+/home/henrique/Documentos/Estudos/NET CORE/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.deps.json
+/home/henrique/Documentos/Estudos/NET CORE/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.runtimeconfig.json
+/home/henrique/Documentos/Estudos/NET CORE/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.runtimeconfig.dev.json
+/home/henrique/Documentos/Estudos/NET CORE/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.dll
+/home/henrique/Documentos/Estudos/NET CORE/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.pdb
+/home/henrique/Documentos/Estudos/NET CORE/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.csprojAssemblyReference.cache
+/home/henrique/Documentos/Estudos/NET CORE/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.csproj.CoreCompileInputs.cache
+/home/henrique/Documentos/Estudos/NET CORE/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.RazorAssemblyInfo.cache
+/home/henrique/Documentos/Estudos/NET CORE/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.RazorAssemblyInfo.cs
+/home/henrique/Documentos/Estudos/NET CORE/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.AssemblyInfoInputs.cache
+/home/henrique/Documentos/Estudos/NET CORE/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.AssemblyInfo.cs
+/home/henrique/Documentos/Estudos/NET CORE/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.RazorTargetAssemblyInfo.cache
+/home/henrique/Documentos/Estudos/NET CORE/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.dll
+/home/henrique/Documentos/Estudos/NET CORE/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.pdb
